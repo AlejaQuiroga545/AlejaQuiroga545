@@ -38,17 +38,17 @@ Creatividad 💡         [███████████████░░] 9
 
 ### ✨ Proyectos creativos
 
-- 🎀 **AleDesign | Portfolio**  
-  Mi portafolio inspirado en el arte y la estética moderna hecho con HTML Y CSS.
-  🔗 [Ver repositorio](https://github.com/tuusuario/aledesign)
+- 🎀 **Mi portafolio**  
+  Mi portafolio inspirado en el arte y la estética moderna hecho con HTML Y CSS
+  🔗 [Míralo aquí 🥰](https://github.com/AlejaQuiroga545/Portfolio---Aleja-Quiroga)
 
 - ☕ **Cafetería artesanal**  
    Página con diseño cálido, menú visual y formulario de reservas  
-  🔗 [Ver repositorio](https://github.com/tuusuario/cafeteria-artesanal)
+  🔗 [Échale un vistazo 🥰](https://github.com/tuusuario/cafeteria-artesanal)
 
 - 🎓 **Gestor de estudiantes (Python)**  
   Proyecto en consola con lógica, validaciones y amor al detalle  
-  🔗 [Ver repositorio](https://github.com/tuusuario/gestor-estudiantes)
+  🔗 [Ejecútalo 🥰](https://github.com/tuusuario/gestor-estudiantes)
 
 ---
 
