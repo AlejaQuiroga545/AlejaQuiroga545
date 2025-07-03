@@ -1,18 +1,17 @@
-<h1 align="center">✨ ¡Hola! Soy <em>Aleja</em> 👩‍💻</h1>
+<h1 align="center">💖 ¡Hola, soy Aleja! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1500&color=FF88C2&center=true&vCenter=true&width=600&lines=Front-end+Lover+%F0%9F%92%8C;Creativa+que+convierte+ideas+en+c%C3%B3digo.;Aprendiendo+Back-end+y+JavaScript.;Dise%C3%B1o+con+alma+y+funci%C3%B3n.;Innovando+con+cada+l%C3%ADnea+de+c%C3%B3digo.;Nunca+dejo+de+aprender+%F0%9F%8C%9F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1500&color=FFB6C1&center=true&vCenter=true&width=650&lines=Front-end+explorer+%F0%9F%8C%9F;Apasionada+por+el+dise%C3%B1o+y+el+c%C3%B3digo.;Back-end+learner+con+ganas+de+crear.;Siempre+curiosa%2C+siempre+aprendiendo.;Transformando+ideas+en+realidades+creativas." />
 </p>
 
 ---
 
 ### 🎀 Sobre mí
 
-🌸 Apasionada por el diseño y el código que emociona.  
-💡 Me encanta crear interfaces hermosas y funcionales.  
-🌱 Actualmente mejorando mis habilidades en **JavaScript** y explorando el **Back-End** con **Python**.  
-🎨 Amo transformar ideas en experiencias digitales.  
-🦄 Curiosa, sensible, creativa... ¡y siempre aprendiendo!
+🌸 Soy Aleja, una mente creativa vibrando entre el diseño y el desarrollo.  
+💻 Amante de las interfaces bonitas y funcionales.  
+🌱 Aprendo cada día.  
+🌈 Me apasiona transformar ideas en realidades visuales.  
 
 ---
 
@@ -37,32 +36,32 @@ Creatividad 💡         [███████████████░░] 9
 
 ---
 
-### 💼 Proyectos creativos
+### ✨ Proyectos creativos
 
-- 🌷 **AleDesign | Portfolio**  
-  MI portafolio con diseño moderno y artístico hecho con HTML y CSS
+- 🎀 **AleDesign | Portfolio**  
+  Mi portafolio inspirado en el arte y la estética moderna hecho con HTML Y CSS.
   🔗 [Ver repositorio](https://github.com/tuusuario/aledesign)
 
 - ☕ **Cafetería artesanal**  
-  Página con diseño cálido y responsivo  
+   Página con diseño cálido, menú visual y formulario de reservas  
   🔗 [Ver repositorio](https://github.com/tuusuario/cafeteria-artesanal)
 
-- 🧮 **Gestor de estudiantes (Python)**  
-  Proyecto de lógica y validación en consola  
+- 🎓 **Gestor de estudiantes (Python)**  
+  Proyecto en consola con lógica, validaciones y amor al detalle  
   🔗 [Ver repositorio](https://github.com/tuusuario/gestor-estudiantes)
 
 ---
 
-### 🌟 GitHub Stats
+### 🌈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejaquiroga545&show_icons=true&theme=rose_pine&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=B78FE5&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejaquiroga545&layout=compact&theme=rose_pine&title_color=ffffff&text_color=ffffff&bg_color=AD67E6&hide_border=true" width="49%"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejaquiroga545&show_icons=true&theme=rose_pine&icon_color=ffffff&title_color=#B87BE5&text_color=ffffff&bg_color=#8D00E5&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejaquiroga545&layout=compact&theme=rose_pine&title_color=ffffff&text_color=ffffff&bg_color=#8D00E5&hide_border=true" width="49%"  />
 </div>
 
 ---
 
-### 🌐 Sígueme
+### 📬 Conectemos
 
 <p align="center">
   <a href="https://www.instagram.com/TU_USUARIO/" target="_blank">
@@ -80,20 +79,19 @@ Creatividad 💡         [███████████████░░] 9
 
 ### ✨ Mi lema
 
-> _"Crear con corazón, programar con intención."_  
-> _"La creatividad es mi lenguaje favorito."_ 🌸
+> _"Crear con alma, programar con intención y compartir con el corazón."_  🌸
 
 ---
 
 ### 🌸 Extras
 
-- 🎧 Música + código = flow creativo  
-- 🖌️ Me inspiro en la estética y el diseño minimalista  
-- 💻 Siempre probando cosas nuevas con código  
-- 💬 Me encanta compartir ideas y aprender de otros
+- 🎧 Música + código = mi mood favorito
+- 🌸 Me inspiro en la estética y el diseño minimalista  
+- 💡 Me encanta aprender cosas nuevas y probar ideas locas  
+- 🤝 Siempre feliz de colaborar en proyectos con buena vibra
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8dd&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8dd&width=100&section=footer"/>
 </p>
