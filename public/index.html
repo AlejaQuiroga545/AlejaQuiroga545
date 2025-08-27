@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Auth | Login & Register</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css" />
+  <meta name="description" content="Simple and modern login & register UI" />
+</head>
+<body>
+  <main class="container">
+    <section class="card">
+      <h2>Login</h2>
+      <form id="loginForm" novalidate>
+        <div class="field">
+          <label for="loginEmail">Email</label>
+          <input type="email" id="loginEmail" name="email" placeholder="you@example.com" required />
+          <small class="error" id="loginEmailError"></small>
+        </div>
+        <div class="field">
+          <label for="loginPassword">Password</label>
+          <input type="password" id="loginPassword" name="password" placeholder="••••••" minlength="6" required />
+          <small class="error" id="loginPasswordError"></small>
+        </div>
+        <button type="submit" class="btn">Sign in</button>
+        <small class="form-message" id="loginMessage"></small>
+      </form>
+    </section>
+
+    <section class="card">
+      <h2>Register</h2>
+      <form id="registerForm" novalidate>
+        <div class="field">
+          <label for="regUsername">Username</label>
+          <input type="text" id="regUsername" name="username" placeholder="yourname" required />
+          <small class="error" id="regUsernameError"></small>
+        </div>
+        <div class="field">
+          <label for="regEmail">Email</label>
+          <input type="email" id="regEmail" name="email" placeholder="you@example.com" required />
+          <small class="error" id="regEmailError"></small>
+        </div>
+        <div class="field">
+          <label for="regPassword">Password</label>
+          <input type="password" id="regPassword" name="password" placeholder="At least 6 characters" minlength="6" required />
+          <small class="error" id="regPasswordError"></small>
+        </div>
+        <button type="submit" class="btn">Create account</button>
+        <small class="form-message" id="registerMessage"></small>
+      </form>
+    </section>
+  </main>
+
+  <script src="/script.js" type="module"></script>
+  <!-- more code may be present -->
+</body>
+</html>
+
+<html lang=es>
+<head>
+  <meta charset=UTF-8 />
+  <meta name=viewport content=width=device-width,
